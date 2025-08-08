@@ -1,5 +1,3 @@
-# DripLink-Frontend-Hiring-Task-Template-Marketplace-UI
-
 # DripLink Frontend Hiring Task - Marketplace UI
 
 This is a simple **React + Tailwind CSS** marketplace UI created as part of the **DripLink Frontend Hiring Task**.
